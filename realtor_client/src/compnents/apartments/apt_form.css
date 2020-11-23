@@ -1,0 +1,14 @@
+#upload-form {
+    background-color: rgba(233, 233, 233, 0.096);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+
+#update-form {
+    background-color: rgba(233, 233, 233, 0.096);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+

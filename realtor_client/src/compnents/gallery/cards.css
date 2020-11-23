@@ -1,0 +1,65 @@
+
+#cards-row {
+    padding-top:5px;
+}
+.city-card {
+    padding-bottom: 30px;
+}
+.card {
+    border: none;
+    box-shadow: 0 0 8px rgba(0,0,0,0.12);
+    cursor: pointer;
+    height: 100%;
+}
+.card-inner {
+    height: 70%;
+    position: relative;
+}
+
+.card-top {
+    height: 100%;
+}
+
+.card:hover {
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+}
+.card .heart {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    opacity: 0.4;
+}
+.heart:hover {
+    fill: #ffc0cb;
+}
+.card .img {
+    position: relative;
+}
+.sale {
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    bottom: 10%;
+    margin-bottom: 8px;
+    left: 5%;
+    font-weight: 700;
+}
+.price {
+    position: absolute;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    bottom:0;
+    left: 5%;
+    text-shadow: 0 1px #444;
+}
+.hours-ago {
+    position: absolute;
+    color: white;
+    font-size:11px;
+    top: 10px;
+    left: 10px;
+    font-weight: bold;
+    background-color: #3d850a;
+    padding: 2px 4px;
+}

@@ -1,0 +1,400 @@
+#top {
+    border-bottom: 1px solid #c4c4c4;
+}
+
+#top .top-container {
+    padding: 5px 10px;
+}
+
+#top img {
+    padding:10px;
+}
+
+#top button:hover {
+    background-color: #ededed;
+}
+
+#main {
+    /* background-image: url("https://static.rdc.moveaws.com/images/hero/veteran_united_prod/hp-takeover-desktop.jpg"); */
+    background-image: url("https://static.rdc.moveaws.com/images/hero/holiday/hp-takeover-desktop.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.25);
+    color: #fff;
+    text-align: center;
+}
+
+.main-container {
+    padding: 130px 0;
+}
+
+.main-padding {
+    padding-bottom: 20px;
+}
+
+#main .form {
+    width: 100%;
+}
+
+#main li {
+    padding: 6px;
+}
+
+#main form {
+    padding-top: 20px;
+}
+
+#header a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+#header a:hover {
+    border-bottom: 3px solid #d92228;
+}
+
+.main-buy li a {
+    border-bottom: 3px solid #d92228;
+}
+
+#main h1 {
+    font-size: 2.3em;
+    font-weight: 700;
+}
+
+#main h4 {
+    font-size: 1.25em;
+    font-weight: 500;
+    
+}
+
+#main span {
+    font-weight: 400;
+    font-size: 18px;
+    top: 15px;
+}
+
+.data-container {
+    padding-top: 24px;
+}
+
+.data-container h2 {
+    font-weight: 700;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.links-input {
+    list-style: none;
+    padding: 0px;
+}
+
+.links-input a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.links-input a:hover {
+    border-bottom:3px solid #d92228;
+}
+
+
+.data-row {
+    padding: 30px;
+}
+
+.data-price{
+    font-size: 28px;
+    color: #3377cc;
+}
+
+.data-title {
+    font-size: 16px;
+    color: #757575;
+}
+
+#main-img-container {
+    background-size: cover;
+    height: 500px;
+    background: url("https://rdcnewscdn.realtor.com/wp-content/uploads/2019/11/most-popular-110819-1441-1440x525.jpg") no-repeat;
+    color: white;
+}
+
+#main-img-container h4 {
+    font-size: 20px;
+    text-shadow: rgba(0,0,0,0.5);
+    padding-bottom: 12px;
+}
+
+#main-img-container h3 {
+    font-weight: 700px;
+    text-shadow: rgba(0,0,0,0.5);
+    font-size: 32px;
+}
+
+#main-img-container .trends-text {
+    padding-bottom: 20px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+#main-img-container button {
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    text-align: center;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-size: 16px;
+    border-color: white;
+}
+
+.trends-card {
+    padding-bottom: 30px;
+}
+#trends-cards-container {
+    background-color: #f7f7f7;
+}
+
+.trends-cards-row {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.blue-tag {
+    position: absolute;
+    color: white;
+    font-size:11px;
+    top: 10px;
+    left: 10px;
+    font-weight: bold;
+    background-color: #3377cc;
+    padding: 2px 4px;
+}
+
+.shadow-hover:hover {
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.4); }
+
+#first-half-container .row {
+    padding: 0px;
+    height: 500px; }
+
+.half-img {
+    background-image: url("https://www.realtor.com/assets/prod/0746007/static/images/hero/hp-hero-mortgage-desktop.jpg");
+    -o-object-position: center;
+    object-position: center;
+    background-size: cover;
+    height: 500px;
+    padding: 0px; }
+
+.sec-half-img {
+    background-image: url("https://www.realtor.com/assets/prod/3ff7f02/static/images/hero/hp-local-desktop.jpg"); }
+
+.half-text {
+    position: absolute;
+    z-index: 100;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+    padding: 0 50px; }
+
+.col-text {
+    bottom: 350px;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+    padding: 0 50px; }
+
+.half-text h2 {
+    font-weight: 700;
+    font-size: 28px; }
+
+.half-text p {
+    font-size: 17px; }
+
+.half-text button {
+    padding: 10px 24px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #d92228;
+    border-color: #d92228;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 1px solid transparent; }
+
+.half-text button:hover {
+    color: #fff;
+    background-color: #ba1d22;
+    border-color: #ba1d22; }
+
+    
+#first-half-container .half-text form {
+    width: 80%; }
+
+#bottom-grid {
+    border: 1px solid #ccc; 
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+}
+
+.grid-container {
+    padding: 60px 0;
+    font-family: 'Roboto',sans-serif;
+}
+
+#bottom-grid p {
+    font-family: 'Roboto',sans-serif; }
+
+#bottom-grid ul {
+    padding-left: 10px; }
+
+#bottom-grid ul a {
+    text-decoration: none;
+    color: #555555; }
+
+#bottom-grid ul a:hover {
+    text-decoration: underline; }
+
+#bottom-grid-2 {
+    border-bottom: 1px solid #ccc;
+    font-size: 12px;
+    font-weight: bold; }
+
+#bottom-grid-2 a {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: normal;
+    display: block; }
+
+#bottom-grid-2 a:hover {
+    text-decoration: underline; }
+
+#bottom-grid-2 span a {
+    position: absolute;
+    right: 10px;
+    color: #3377cc;
+    font-weight: 700; }
+
+#logo-grid {
+    background-color: #333;
+    padding: 20px; }
+
+.logo-col {
+    list-style: none;
+    margin: 0px;
+    padding: 0px; }
+
+.logo-col li {
+    padding: 8px; }
+
+.fab {
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px 10px; }
+
+.fab:hover {
+    opacity: 0.8; }
+
+#footer {
+    background-color: #3b3b3b;
+    padding: 16px 100px;
+    color: #c8c8c8; }
+
+#footer a {
+    color: white;
+    text-decoration: none; }
+
+#footer a:hover {
+    text-decoration: underline; }
+
+#footer ul li {
+    padding-right: 5px; }
+
+#footer ul {
+    list-style: none;
+    text-align: left;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    padding: 0px; }
+
+#footer h6 {
+    color: white;
+    font-size: 12px;
+    font-weight: 700; }
+
+#footer div {
+    padding-bottom: 10px; }
+
+#footer p {
+    font-size: 11px;
+    color: #c8c8c8; }
+
+#footer a:hover {
+    text-decoration: underline; }
+
+.pre-approved-btn {
+    background-color: transparent;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 1px solid #d92228;
+    color: #d92228;
+    padding: 6px 16px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.city-card-container h2 {
+    font-weight: 700;
+    font-size: 24.5px;
+    padding-top: 20px;
+    margin:0px;
+}
+
+.city-card-container a {
+    color: #007bff;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+@media (min-width: 992px) {
+    #main h1 {
+        font-size: 56px; 
+    }
+    .search-btn {
+        width: 60%;
+    }
+    #main h1 {
+        font-size: 56px; 
+    }
+    #main-img-container h3 {
+        font-size: 20px; 
+    }
+    #main-img-container h4 {
+        font-size: 24px; 
+    }
+    .half-text {
+        right: 0%;
+        color: black;
+        text-shadow: none; 
+    }
+    .half-text h2 {
+        font-size: 32px; 
+    }
+    .half-text p {
+        font-size: 20px; 
+    }
+    .col-text {
+        color: black;
+        bottom: 0px;
+        text-shadow: none; 
+    } 
+}
+
